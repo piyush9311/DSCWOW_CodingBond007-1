@@ -19,4 +19,4 @@ SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
 3. Now Enable developers option
 [![1.png](https://i.postimg.cc/4yfHf1Zv/1.png)](https://postimg.cc/34qx9mkW)
 4. select load unpacked,locate it to your extracted files.
-5. ENJOY MINI-SCREEN™️
+5. ENJOY MINI-SCREEN:innocent:

@@ -4,3 +4,13 @@ A hyperlink:zap: always open a website in new window or in new window. But somet
 
 So we introduce a new google extension that will open the new link in a MINI-WINDOW.
 SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
+
+# INSTALLATION:bulb:
+1. Download source code from github:-
+* use this code and download code <br>
+`gh repo clone piyush9311/DSCWOW_CodingBon007`
+<br>OR </br>
+* Download code from github
+<a href="https://imgur.com/kHfSQWk"><img src="https://i.imgur.com/kHfSQWk.png" title="source: imgur.com" /></a>
+2. Now open your google browser
+[img]https://i.imgur.com/OmIJqvc.png[/img]

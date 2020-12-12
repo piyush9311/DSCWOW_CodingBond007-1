@@ -7,7 +7,7 @@ SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
 
 # INSTALLATION:bulb:
 1. Download source code from github:-
-* use this code and download code <br>
+* use this git command and download files<br>
 `gh repo clone piyush9311/DSCWOW_CodingBon007`
 <br>OR </br>
 * Download code ZIP FILE from github

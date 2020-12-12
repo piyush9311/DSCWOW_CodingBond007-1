@@ -18,5 +18,5 @@ SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
 [![2.png](https://i.postimg.cc/W1BV6bdx/2.png)](https://postimg.cc/hX1NKnb0)
 3. Now Enable developers option
 [![1.png](https://i.postimg.cc/4yfHf1Zv/1.png)](https://postimg.cc/34qx9mkW)
-4. select load unpacked,locate it to your extracted files.
+4. select load unpacked,locate it folder where your downloaded files exist.
 5. ENJOY MINI-SCREEN:innocent:

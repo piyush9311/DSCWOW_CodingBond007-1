@@ -12,7 +12,7 @@ SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
 <br>OR </br>
 * Download code ZIP FILE from github
 [![1.png](https://i.postimg.cc/8ztWj9sF/1.png)](https://postimg.cc/75JbRB3D)
-[![22.png](https://i.postimg.cc/3J9WBphV/22.png)](https://postimg.cc/N59gGK5k)
+
 2. Now open your google browser
 * select 3 dots>more tools>extensions
 [![2.png](https://i.postimg.cc/W1BV6bdx/2.png)](https://postimg.cc/hX1NKnb0)

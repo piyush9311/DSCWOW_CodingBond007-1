@@ -10,7 +10,7 @@ SOUNDS FUN RIGHT:question: GIVE IT A TRY:star2:
 * use this code and download code <br>
 `gh repo clone piyush9311/DSCWOW_CodingBon007`
 <br>OR </br>
-* Download code from github
-<a href="https://imgur.com/kHfSQWk"><img src="https://i.imgur.com/kHfSQWk.png" title="source: imgur.com" /></a>
+* Download code ZIP FILE from github
+[![1.png](https://i.postimg.cc/8ztWj9sF/1.png)](https://postimg.cc/75JbRB3D)
 2. Now open your google browser
-[img]https://i.imgur.com/OmIJqvc.png[/img]
+
